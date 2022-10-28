@@ -82,17 +82,26 @@ void clockwise(int speed)
 ```
 ### OUTPUT
 ## CIRCUIT DIAGRAM:
+
 ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/blob/7b4f27658da3872311c696ec96749b1ed6ab764a/c1.jpeg)
 
 ### READINGS:
  CLOCKWISE:
+ 
 ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/blob/7b4f27658da3872311c696ec96749b1ed6ab764a/c2.jpeg)
+
  GRAPH:
+ 
 ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/blob/7b4f27658da3872311c696ec96749b1ed6ab764a/c3.jpeg)
+
  COUNTER CLOCKWISE:
+ 
 ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/blob/7b4f27658da3872311c696ec96749b1ed6ab764a/c4.jpeg)
+
  GRAPH:
+ 
 ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/blob/7b4f27658da3872311c696ec96749b1ed6ab764a/c5.jpeg)
+
 
 ### RESULTS AND DISCUSSION 
 Thus, the speed and the direction of a DC motor using L293D driver ic( H- bridge) is controlled.
